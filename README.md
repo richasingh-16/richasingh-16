@@ -42,12 +42,3 @@ Full Stack Developer • Final year ECE Student at NIT-Surat
 <img height="40" src="https://img.shields.io/badge/Email-4b2e2e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=richasingh-16&show_icons=true&hide_border=true&title_color=4b2e2e&icon_color=4b2e2e&text_color=4b2e2e"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh-16&layout=compact&hide_border=true&title_color=4b2e2e&text_color=4b2e2e"/>
-
-</p>
