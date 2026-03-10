@@ -11,7 +11,7 @@ Hey, I'm Richa Singh
 </h1>
 
 <p align="center" style="color:#4b2e2e;">
-Full Stack Developer
+Full Stack Developer • Final year ECE Student at NIT-Surat
 </p>
 
 
