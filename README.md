@@ -18,25 +18,40 @@ Full Stack Developer
 ### Tech Stack
 <span style="color:#4b2e2e;">
 
-</span>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<p>
+
+<img height="40" src="https://img.shields.io/badge/JavaScript-4b2e2e?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/React-4b2e2e?style=for-the-badge&logo=react&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/Node.js-4b2e2e?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/MongoDB-4b2e2e?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/Firebase-4b2e2e?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/Python-4b2e2e?style=for-the-badge&logo=python&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/C++-4b2e2e?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/Git-4b2e2e?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
-</span>
+### Connect with me at
+<p align="left">
 
-### Connect with me at :
-<span style="color:#4b2e2e;">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img height="40" src="https://img.shields.io/badge/LinkedIn-4b2e2e?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>LinkedIn: https://www.linkedin.com/in/richa-singhxyz/ </p>
-<p>Email: s.richaaaaxyz@gmail.com </p>
+<a href="mailto:YOUREMAIL@gmail.com">
+<img height="40" src="https://img.shields.io/badge/Email-4b2e2e?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</span>
+<a href="https://github.com/YOURUSERNAME">
+<img height="40" src="https://img.shields.io/badge/GitHub-4b2e2e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</p>
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=richasingh-16&show_icons=true&hide_border=true&title_color=4b2e2e&icon_color=4b2e2e&text_color=4b2e2e"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh-16&layout=compact&hide_border=true&title_color=4b2e2e&text_color=4b2e2e"/>
+
+</p>
