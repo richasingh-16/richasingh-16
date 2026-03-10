@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Richa Singh</h1>
 
-<!--
-**richasingh-16/richasingh-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ Aspiring Software Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Currently learning full-stack development and building practical projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Tech Stack
+- JavaScript
+- React
+- Node.js
+- Firebase
+- Git
+
+---
+
+### 🌐 Connect
+- Portfolio: https://yourportfolio.vercel.app
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
+
+---
+
+<p align="center">
+Thanks for visiting my profile.
+</p>
