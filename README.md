@@ -43,6 +43,7 @@ Full Stack Developer • Final year ECE Student at NIT-Surat
 </a>
 </p>
 
+
 <p align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=richasingh-16&show_icons=true&hide_border=true&title_color=4b2e2e&icon_color=4b2e2e&text_color=4b2e2e"/>
